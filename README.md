@@ -82,3 +82,18 @@ toggleArea.addEventListener("click", function (e) {
 ```
 
 The following code provides all styles used for the webpage.
+```css
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap");
+
+:root {
+  --gradient: hsl(236, 72%, 79%), hsl(237, 63%, 64%);
+  --purple: hsl(237, 63%, 64%);
+  --very-light-grayish-blue: hsl(240, 78%, 98%);
+  --light-grayish-blue: hsl(234, 14%, 74%);
+  --grayish-blue: hsl(233, 13%, 49%);
+  --dark-grayish-blue: hsl(232, 13%, 33%);
+  --white: white;
+  --body-font: "Montserrat", sans-serif;
+  --transition: all ease-in-out 0.3s;
+}
+```
