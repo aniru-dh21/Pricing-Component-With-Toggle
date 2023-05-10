@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL : [Frontend-Mentor]
-- Repository URL : [GitHub-Repo]
+- Repository URL : [GitHub-Repo](https://github.com/aniru-dh21/Pricing-Component-With-Toggle/tree/main)
 - Live Site URL : [Live-Site]
 
 ## My Process
