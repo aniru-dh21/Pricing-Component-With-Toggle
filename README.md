@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL : [Frontend-Mentor]
+- Solution URL : [Frontend-Mentor](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-gJNzK53-3E)
 - Repository URL : [GitHub-Repo](https://github.com/aniru-dh21/Pricing-Component-With-Toggle/tree/main)
 - Live Site URL : [Live-Site](https://aniru-dh21.github.io/Pricing-Component-With-Toggle/)
 
