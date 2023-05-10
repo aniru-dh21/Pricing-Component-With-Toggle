@@ -43,3 +43,6 @@ Users should be able to:
 - Grid
 - Desktop-first Workflow
 - JavaScript
+
+### Code Snippet
+
