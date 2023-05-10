@@ -11,3 +11,4 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Code Snippet](#code-snippet)
+- [Author](#author)
