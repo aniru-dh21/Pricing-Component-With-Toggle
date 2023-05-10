@@ -42,3 +42,4 @@ Users should be able to:
 - Flex
 - Grid
 - Desktop-first Workflow
+- JavaScript
