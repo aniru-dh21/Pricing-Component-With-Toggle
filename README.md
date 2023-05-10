@@ -80,3 +80,5 @@ toggleArea.addEventListener("click", function (e) {
   }
 });
 ```
+
+The following code provides all styles used for the webpage.
