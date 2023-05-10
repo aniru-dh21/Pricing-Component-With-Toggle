@@ -20,3 +20,4 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 Users should be able to:
 
 - View the optimal layout for the component depending on their device's screen size
+- Control the toggle with both their mouse/trackpad and their keyboard
