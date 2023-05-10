@@ -16,3 +16,5 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 ## Overview
 
 ### The Challenge
+
+Users should be able to:
