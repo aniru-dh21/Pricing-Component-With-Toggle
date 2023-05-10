@@ -47,3 +47,16 @@ Users should be able to:
 ### Code Snippet
 
 This is code for animation of toggle area.
+```css
+.toggle-area {
+  border: none;
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  cursor: pointer;
+  width: 3.8rem;
+  height: 2.3rem;
+  border-radius: 25px;
+  background: linear-gradient(var(--gradient));
+}
+```
