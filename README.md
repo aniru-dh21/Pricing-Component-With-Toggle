@@ -101,3 +101,4 @@ The following code provides all styles used for the webpage.
 ## Author
 
 - LinkedIn - [Ramachandra Anirudh Vemulapalli](https://www.linkedin.com/in/ramachandra-anirudh-vemulapalli-554b551ba/)
+- Frontend Mentor - [aniru-dh21](https://www.frontendmentor.io/profile/aniru-dh21)
