@@ -9,7 +9,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My Process](#my-process)
-  - [Built with](#built-with)
+  - [Built With](#built-with)
   - [Code Snippet](#code-snippet)
 - [Author](#author)
 
@@ -34,3 +34,6 @@ Users should be able to:
 - Live Site URL : [Live-Site]
 
 ## My Process
+
+### Built With
+
