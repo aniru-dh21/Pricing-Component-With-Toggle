@@ -8,7 +8,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
   - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My Process](#my-process)
   - [Built with](#built-with)
   - [Code Snippet](#code-snippet)
 - [Author](#author)
@@ -33,3 +33,4 @@ Users should be able to:
 - Repository URL : [GitHub-Repo]
 - Live Site URL : [Live-Site]
 
+## My Process
