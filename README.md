@@ -5,7 +5,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 ## Table of contnents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
+  - [The Challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -14,3 +14,5 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 - [Author](#author)
 
 ## Overview
+
+### The Challenge
