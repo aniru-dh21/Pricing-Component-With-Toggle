@@ -46,3 +46,4 @@ Users should be able to:
 
 ### Code Snippet
 
+This is code for animation of toggle area.
