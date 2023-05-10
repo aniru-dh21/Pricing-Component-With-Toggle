@@ -24,3 +24,6 @@ Users should be able to:
 - **Bonus**: Complete the challenge with just HTML and CSS
 
 ### Screenshot
+
+![preview](./preview.png)
+
