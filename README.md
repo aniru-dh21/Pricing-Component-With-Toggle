@@ -60,3 +60,5 @@ This is code for animation of toggle area.
   background: linear-gradient(var(--gradient));
 }
 ```
+
+This is JavaScript code for toggle functional
