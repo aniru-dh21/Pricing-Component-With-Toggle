@@ -4,4 +4,5 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 
 ## Table of contnents
 
-- [Overview](#overview]
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
