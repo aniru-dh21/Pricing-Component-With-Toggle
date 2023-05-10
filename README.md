@@ -6,3 +6,4 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
